@@ -1,0 +1,15 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+/Blockbuster/settings.py
+/bbster/migrations
+/bbster/__pycache__
+/Blockbuster/__pycache__
+/venv
+.directory
+.vscode/settings.json
+__pycache__/tests.cpython-36.pyc
+accounts/__pycache__/models.cpython-36.pyc
+accounts/__pycache__/serializers.cpython-36.pyc
+accounts/__pycache__/urls.cpython-36.pyc
+accounts/__pycache__/views.cpython-36.pyc
+
